@@ -47,7 +47,7 @@ Virtual environment recommended
 
 python -m venv .venv
 .\.venv\Scripts\activate      # Windows
-# OR
+#OR
 source .venv/bin/activate     # macOS/Linux
 
 Install Dependencies
